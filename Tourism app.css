@@ -1,0 +1,38 @@
+.row{
+	 margin: 20px;
+	 padding: 2.66px;
+	}
+	hr{
+		column-width: 36px;
+		color: red;
+	}
+	#qwe{
+		color: silver;
+	}
+	#jkl{
+		color: green;
+	}
+	#box{
+		margin-right: 50px
+	}
+	.wer{
+		background-color: yellow;
+	}
+	#carouselExampleCaptions{ 
+                             width: 200;
+                             height: 500;
+                              }
+                              B{
+                              	color: orange;
+                              	font-size: 40px;
+                              }
+                              I{
+                              	color: #e32e0e;
+                              	font-size: 30px;
+                              }
+                              hr{
+                              	color: green;
+                              	outline-width: 800px;
+                              	background-color: #cfeb63;
+
+                              }
